@@ -8,6 +8,9 @@ public class WebScrapRpaApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(WebScrapRpaApplication.class, args);
+
+
+
     }
 
 }
